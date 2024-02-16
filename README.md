@@ -11,4 +11,4 @@ To play the game navigate to: https://michelleog2351.github.io/TetrisGame/
 2. Use the up and down arrow keys to rotate the shape.
 3. Use the left and right arrow keys to position the shape.
 4. The goal is to create complete rows with no empty spaces.
-5. When completed, the rows will disappear.
+6. Add another instruction no.6...To pause the game, just press the space bar again.
