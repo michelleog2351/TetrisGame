@@ -13,3 +13,5 @@ The goal of the game is to create complete rows with no empty spaces.
 3. Use the left and right arrow keys to position the shape.
 4. When completed, the rows will disappear.
 5. To pause the game, just press the space bar again.
+
+This is a silly edit!
